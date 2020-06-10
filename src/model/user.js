@@ -1,4 +1,6 @@
-const mongoose = require('../bancoDados/indexDB');
+//Não importa oq eu coloque aqui dá os mesmos problemas...
+//Já não tenho mais ideias...
+const mongoose = require('../bancoDados');
 
 
 const userSchema = new mongoose.Schema({
